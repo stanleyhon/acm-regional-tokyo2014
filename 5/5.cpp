@@ -15,8 +15,6 @@ int debug[MAX][MAX];
 
 int n, xstart, ystart , T;
 
-/* YOU BUILT THE MAP WRONG */
-
 /* Note the ordering for set */
 struct Move {
 	int t;
